@@ -1,0 +1,2 @@
+module AlmondRails
+end

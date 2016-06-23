@@ -5,7 +5,7 @@ require "almond_rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "almond_rails"
+  s.name        = "almond-rails"
   s.version     = AlmondRails::VERSION
   s.authors     = ["Justin Coyne"]
   s.email       = ["jcoyne@justincoyne.com"]
